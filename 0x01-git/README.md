@@ -1,1 +1,3 @@
-Directory 0x01-git
+My first readme
+
+Updating from github.com
